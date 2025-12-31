@@ -1,4 +1,4 @@
-# Student Performance Prediction 🎓
+# 🎓 Student Performance Prediction 
 
 This project is a Streamlit-based web application that predicts student performance scores based on study habits and lifestyle factors.
 
